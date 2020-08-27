@@ -2,7 +2,6 @@ $lt-gray: #ddd;
 $background-dark: #512DA8;
 $background-light: #9575CD;
 $background-pale: #D1C4E9;
-$floralwhite: #FFFAF0;
 
 // Height variables
 $carousel-item-height: 300px;
@@ -82,10 +81,10 @@ body{
         background-color: $background-dark;
 
         h4.modal-title {
-            color: $floralwhite;
+            color: floralwhite;
         }
         .close{
-            color: $floralwhite;
+            color: floralwhite;
         }
     }
     .modal-body {

@@ -56,9 +56,9 @@ body {
 .modal-dialog .modal-header {
   background-color: #512DA8; }
   .modal-dialog .modal-header h4.modal-title {
-    color: #FFFAF0; }
+    color: floralwhite; }
   .modal-dialog .modal-header .close {
-    color: #FFFAF0; }
+    color: floralwhite; }
 
 .modal-dialog .modal-body {
   background-color: #9575CD; }
