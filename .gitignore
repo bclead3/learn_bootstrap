@@ -1,3 +1,6 @@
-node_modules
+/node_modules
 package-lock.json
 dist
+push.sh
+.DS_Store
+/*.env
